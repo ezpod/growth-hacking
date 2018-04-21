@@ -38,7 +38,7 @@ __注意__：这个帖子最早在2015年发表。我最近进行了更新，
 
 有比Udemy更好的地方，能找到验证过的内容结构吗？
 
-![udemy homepage](img/udemy-homepage-1024x677.png)
+![udemy homepage](img/1/udemy-homepage-1024x677.png)
 
 （如果你还不熟悉Udemy，它是一个在线课程的大型目录）
 
@@ -48,23 +48,23 @@ __这是你如何使用Udemy让你的内容具有3倍竞争力的方法：__
 
 例如，假设你正在写一篇关于摄影的博客。你会搜索`photography`：
 
-![udemy search](img/udemy-search-1024x432.png)
+![udemy search](img/1/udemy-search-1024x432.png)
 
 Udemy会列出来他们热门的照相课程：
 
-![search result](img/search-results-1024x458.png)
+![search result](img/1/search-results-1024x458.png)
 
 接下来，选一门有很多评论的课程。
 
 这是一个：
 
-![course](img/course-1024x451.png)
+![course](img/1/course-1024x451.png)
 
 一旦你选中一门课程，看一下多少人已经报名了。
 
 就像你看到的，超过70000人已经学习了这门摄影课：
 
-![number of students](img/number-of-students-1024x191.png)
+![number of students](img/1/number-of-students-1024x191.png)
 
 你知道这是多大的数量吗？
 
@@ -82,13 +82,13 @@ __现在：__
 在这儿你将找到经过验证的内容结构，你可以用于你的下一篇博客、
 视频或信息图：
 
-![course outline](img/course-outline-1024x828.png)
+![course outline](img/1/course-outline-1024x828.png)
 
 显然，你不会想着把课程内容扒下来。
 
 不过你的结构，可以借鉴课程大纲的点点滴滴：
 
-![outline](img/outline.png)
+![outline](img/1/outline.png)
 
 现在，你有了自己的内容轮廓，几乎到了要提笔写字的时候了。
 
@@ -112,7 +112,7 @@ __现在：__
 
 就是Google像扔石头一样抛弃你的网站的时候。
 
-![google bounce rate](img/google-bounce-rate.png)
+![google bounce rate](img/1/google-bounce-rate.png)
 
 基本原则？
 
@@ -127,7 +127,7 @@ __现在：__
 
 你可能注意到我倾向于使用以冒号结尾的短句，就像这个：
 
-![super short sentence](img/super-short-sentence-1024x380.png)
+![super short sentence](img/1/super-short-sentence-1024x380.png)
 
 这就是个`Bucket Brigade`。
 
@@ -141,7 +141,7 @@ __但是到底什么是`Bucket Brigades`？__
 
 事实上，这是Backlinko的平均停留时间：
 
-![time on page](img/time-on-page.png)
+![time on page](img/1/time-on-page.png)
 
 是的，4分钟。
 
@@ -159,17 +159,17 @@ __现在是时候给你展示如何使用`Bucket Brigades`来提高停留时间�
 
 这是一个示例，在介绍里，我使用了两个`Bucket Brigades`：
 
-![bucket brigade example](img/bucket-brigade-examples-1024x622.png)
+![bucket brigade example](img/1/bucket-brigade-examples-1024x622.png)
 
 （顺便说一下，那个帖子的平均停留时间超过5分钟）
 
-![average time on page](img/average-time-on-page-for-an-article-1024x293.png)
+![average time on page](img/1/average-time-on-page-for-an-article-1024x293.png)
 
 你也可以在内容的中间部分使用`Bucket Brigades`。
 
 这是一个来自我最近一个帖子的示例：
 
-![another bucket brigade example](img/another-bucket-brigade-example-1024x328.png)
+![another bucket brigade example](img/1/another-bucket-brigade-example-1024x328.png)
 
 基本原则：任何时候，当你有一个地方，你感觉人们可能会厌倦离开，
 你就加上一个`Bucket Brigade`。
@@ -212,13 +212,13 @@ Google怎么知道你的页面是关于：
 
 例如，当Google看到一个具有这样的关键词的页面...
 
-![LSI keywords](img/LSI-Keywords-1024x613.png)
+![LSI keywords](img/1/LSI-Keywords-1024x613.png)
 
 ...它就知道这个页面是关于车辆的。
 
 不过当Google看到一个这样的页面...
 
-![wikipedia-entry-LSI-keyword](img/wikipedia-entry-LSI-keywords-1024x381.png)
+![wikipedia-entry-LSI-keyword](img/1/wikipedia-entry-LSI-keywords-1024x381.png)
 
 ...它就知道页面是关于电影`Cars`的。
 
@@ -230,14 +230,14 @@ __让我用一个示例来解释：__
 
 首先，在Google里搜索那个关键词：
 
-![google search](img/google-search-1024x490.png)
+![google search](img/1/google-search-1024x490.png)
 
 然后，注意页面中那些 __不是你输入的关键词的__ 粗体的单词和
 短语。
 
 这是摘自Google结果第一页的一些示例：
 
-![lsi keywords](img/lsi-keywords-in-google-search-results-1024x612.png)
+![lsi keywords](img/1/lsi-keywords-in-google-search-results-1024x612.png)
 
 看到Google是如何加粗像`Final Fantasy VIII`和`PS1`这样的
 单词了吗？
@@ -264,7 +264,7 @@ __创造你自己的关键词__
 
 如果在Google里搜索你自己的品牌，你可能会排名第一：
 
-![backlinko search](img/backlinko-search-results-1024x635.png)
+![backlinko search](img/1/backlinko-search-results-1024x635.png)
 
 你可能没想过这个，__你的品牌是一个关键词__...
 
@@ -278,7 +278,7 @@ __创造你自己的关键词__
 你可能听说过`Skyscraper`技巧，我发明的让你获得更多
 自然搜索流量的三步操作法。
 
-![skyscraper](img/skyscraper-technique-blog-post-1024x761.png)
+![skyscraper](img/1/skyscraper-technique-blog-post-1024x761.png)
 
 因为我为方法造了个名字`The Skyscraper Technique`，现在每天
 都能获得额外的流量。
@@ -286,12 +286,12 @@ __创造你自己的关键词__
 实际上，根据Google搜索控制台的显示，关键词`Skyscraper
 Technique`每个月可以获得1093个搜索来访者：
 
-![google search console](img/google-search-console-impressions-1024x491.png)
+![google search console](img/1/google-search-console-impressions-1024x491.png)
 
 因为我在这个关键字上排名第一（也出现在回答框里），我得到了这个关键词
 的绝大多数点击（1103里的1093个）：
 
-![google search result](img/google-search-results-2-1024x896.png)
+![google search result](img/1/google-search-results-2-1024x896.png)
 
 基本原则？
 
@@ -306,7 +306,7 @@ Technique`每个月可以获得1093个搜索来访者：
 不久前我发表了一个帖子，名字叫：
 `Why Google Hates Your Site (Hint: It Has Something to Do With TrustRank)“:`：
 
-![google trust article](img/google-trust-article-1024x800.png)
+![google trust article](img/1/google-trust-article-1024x800.png)
 
 在这个帖子里，我决定使用一个我的竞争对手压根就
 不会用的关键词...
@@ -322,23 +322,23 @@ __Google hates my site（Google讨厌我的站）__
 我选择这个关键词，是因为我看到，在SEO论坛里很多人
 说着类似的话：
 
-![quora](img/quora.png)
+![quora](img/1/quora.png)
 
 如果人们在论坛里发帖谈论一个东西，你可以确信他们也会
 在Google里搜索同样的东西。
 
 于是我决定在我的帖子里使用这个关键词的一个变种：
 
-![google trust article](img/google-trust-article-1-1024x800.png)
+![google trust article](img/1/google-trust-article-1-1024x800.png)
 
 现在，我的目标关键词`Google TrustRank`已经排名第一...
 
-![ranking 1 in google](img/ranking-1-in-google-1024x752.png)
+![ranking 1 in google](img/1/ranking-1-in-google-1024x752.png)
 
 ...当人们搜索`Google hates my site`时，我的帖子会显示在
 最高的位置：
 
-![number 1 ranking](img/number-1-ranking-1024x741.png)
+![number 1 ranking](img/1/number-1-ranking-1024x741.png)
 
 你如何使用这个技巧获取更多流量？
 
@@ -351,26 +351,26 @@ __Google hates my site（Google讨厌我的站）__
 
 你可以在Google里这样搜索：`inurl:forum + "organic vegetable gardening"`
 
-![forum search](img/forum-search-1024x447.png)
+![forum search](img/1/forum-search-1024x447.png)
 
 这会找出了一堆关于这个主题的论坛帖子：
 
-![google search result](img/google-search-results-3.png)
+![google search result](img/1/google-search-results-3.png)
 
 跳过结果中最初的几个。
 
 当你看到一个看起来不错的短语时...
 
-![forum post](img/forum-post.png)
+![forum post](img/1/forum-post.png)
 
 ...在Google里搜索那个短语：
 
-![number of results](img/number-of-results-in-a-google-search-1024x408.png)
+![number of results](img/1/number-of-results-in-a-google-search-1024x408.png)
 
 如果结果页面的数量很多（就像这个例子），就把这些词和短语
 加到你的内容里。
 
-![wordpress post](img/wordpress-post1-768x318.png)
+![wordpress post](img/1/wordpress-post1-768x318.png)
 
 好了。
 
@@ -394,21 +394,21 @@ __行为召唤。__
 List Building Strategies That Will Generate 
 More Subscribers Today`：
 
-![backlinko-post](img/backlinko-post-1024x822.png)
+![backlinko-post](img/1/backlinko-post-1024x822.png)
 
 为了让这个帖子获得尽可能多的分享，我在列表中每一项
 的下面，添加了一个`click to tweet`按钮：
 
-![click to tweet](img/clicktweet-1.gif)
+![click to tweet](img/1/clicktweet-1.gif)
 
 到今天位置，我的帖子获得了超过2900个`tweets`...
 
-![tweet count](img/tweet-count-1024x934.png)
+![tweet count](img/1/tweet-count-1024x934.png)
 
 ...而且这2900个`tweets`中的一大部分都来自我的
 `click to tweets`按钮：
 
-![tweet](img/tweet-929x1024.png)
+![tweet](img/1/tweet-929x1024.png)
 
 让我告诉你怎么实现：
 
@@ -416,25 +416,25 @@ More Subscribers Today`：
 
 接下来，去`ClickToTweet.com`，点击`basic link`：
 
-![click to tweet](img/click-to-tweet-1024x305.png)
+![click to tweet](img/1/click-to-tweet-1024x305.png)
 
 把你的小窍门转换成一个`tweet`：
 
-![tweet example](img/tweet-example.png)
+![tweet example](img/1/tweet-example.png)
 
 然后，点击`Generate new link`：
 
-![click to tweet example](img/click-to-tweet-example.png)
+![click to tweet example](img/1/click-to-tweet-example.png)
 
 拿到链接...
 
-![twitter link](img/twitter-link-768x138.png)
+![twitter link](img/1/twitter-link-768x138.png)
 
 ...把链接塞到你的帖子里。
 
 你可以像我一样使用按钮。不过普通文字链接效果也很好：
 
-![click to tweet](img/click-to-tweet-link.png)
+![click to tweet](img/1/click-to-tweet-link.png)
 
 
 
@@ -471,25 +471,25 @@ __他们使用了绝大多数竞争者都不知道的长尾关键词。__
 
 你将在亚马逊上搜索`organic dog food`：
 
-![amazon search](img/amazon-search-1024x254.png)
+![amazon search](img/1/amazon-search-1024x254.png)
 
 但是，别按回车键！
 
 如果你等一秒钟，亚马逊会展示出，和你的输入相关的
 长尾关键词（就像`Google Suggest`）：
 
-![amazon suggest](img/amazon-suggest-1024x889.png)
+![amazon suggest](img/1/amazon-suggest-1024x889.png)
 
 抓几个这样的词，丢到Google里：
 
-![google search for a long tail keyword](img/google-search-for-a-long-tail-keyword-1024x285.png)
+![google search for a long tail keyword](img/1/google-search-for-a-long-tail-keyword-1024x285.png)
 
 验证一下这个长尾关键词，是不是比你的目标关键词竞争
 难度小一些。
 
 通常会是：
 
-![google page authority](img/google-page-authority_v1.png)
+![google page authority](img/1/google-page-authority_v1.png)
 
 （从上图你可以看出，关键词`Organic Dog Food`搜索结果`top 10`的结果
 页面权威性比类似的长尾词要高`X%`）
@@ -499,7 +499,7 @@ __他们使用了绝大多数竞争者都不知道的长尾关键词。__
 
 最后，把这些关键词点缀在你的商品和目录页（以及标题和描述`tag`）
 
-![shopify](img/PNG-Edited-shopify_seo.png)
+![shopify](img/1/PNG-Edited-shopify_seo.png)
 
 当你把这些长尾词添加到产品和目录页以后，就可以使用下一个技巧。
 
@@ -520,11 +520,11 @@ __这有一个实战小案例：__
 不久前我发表了一个指南：“Link Building: The 
 Definitive Guide”。
 
-![link building guide](img/link-building-guide-backlinko.png)
+![link building guide](img/1/link-building-guide-backlinko.png)
 
 我使用的标题`tag`，就是指南的名字：
 
-![old title tag](img/old-title-tag-1024x274.png)
+![old title tag](img/1/old-title-tag-1024x274.png)
 
 那时，我自己想：
 
@@ -537,18 +537,18 @@ __但是我错了。__
 
 于是我在标题`tag`里，加了一个关键词`SEO`：
 
-![new title with modifier](img/new-title-with-title-modifier-1024x392.png)
+![new title with modifier](img/1/new-title-with-title-modifier-1024x392.png)
 
 多亏这个简单的调整，我的页面在我压根没有考虑优化的一些
 关键字上，也有了排名...
 
 ...就像`SEO link building`（590个搜索/每月）：
 
-![seo link building](img/seo-link-building.png)
+![seo link building](img/1/seo-link-building.png)
 
 像`link building SEO`（90个搜索/月）：
 
-![link building seo](img/link_building_SEO.png)
+![link building seo](img/1/link_building_SEO.png)
 
 根据`GWT`的统计，这两个关键字每个月给我带来了 __139个目标
 用户。__
@@ -584,7 +584,7 @@ __但是我错了。__
 就像你早前看到的，Backlinko在页面平均停留时长方面超过
 平均水准：
 
-![time on page](img/time-on-page.png) 
+![time on page](img/1/time-on-page.png) 
 
 我已经告诉过你，`Bucket Brigade`是留住用户一个重要方面。
 
@@ -599,7 +599,7 @@ __经过实战考验的、帖子介绍部分的结构。__
 
 它的基本构成如下：
 
-![app blog post introduction](img/aap-blog-post-introduction.png)
+![app blog post introduction](img/1/aap-blog-post-introduction.png)
 
 从图中容易看出，`APP`表示：`Agree`（认同）、`Promise`（承诺），
 和`Preview`（预览）。
@@ -614,7 +614,7 @@ __首先，我们需要认同__。
 
 这是一个例子，来自我的一个帖子：
 
-![blog post intro](img/blog-post-intro-1024x805.png)
+![blog post intro](img/1/blog-post-intro-1024x805.png)
 
 这里说的都是那些从关键词“squeeze page”搜索过来的人们
 认同的东西。
@@ -625,13 +625,13 @@ __现在你已经让他们点头了，是时候给出承诺了__。
 
 这是一个示例，来自我的帖子“Social Squeeze Page Post”：
 
-![second part of article intro](img/second-part-of-article-introduction-1024x655.png)
+![second part of article intro](img/1/second-part-of-article-introduction-1024x655.png)
 
 __最后，用预览打动他们__
 
 不要绕圈子，直接说你能给他们什么。
 
-![preview](img/preview-1024x331.png)
+![preview](img/1/preview-1024x331.png)
 
 一旦完成预览部分，你就准备好了。
 
@@ -652,16 +652,16 @@ Google就越能理解你的页面。
 不久前我想给帖子加一些LSI关键词，”On-Page SEO: Anatomy 
 of a Perfectly Optimized Page“。
 
-![post on page seo](img/backlinkos-post-on-on-page-seo.png)
+![post on page seo](img/1/backlinkos-post-on-on-page-seo.png)
 
 首先，我在Google搜索我的目标关键词（"on page SEO"）:
 
-![searching for a keyword in google](img/searching-for-a-keyword-in-google-1024x515.png)
+![searching for a keyword in google](img/1/searching-for-a-keyword-in-google-1024x515.png)
 
 接下来，我滚动到页面底部。Google在这里展示和你搜索相关的
 关键词：
 
-![search related to](img/searches-related-to-1024x561.png)
+![search related to](img/1/searches-related-to-1024x561.png)
 
 这些是可以用在你的内容中的完美的LSI关键词。
 
@@ -669,7 +669,7 @@ of a Perfectly Optimized Page“。
 
 例如：
 
-![LSI keyword used](img/LSI-keyword-used-1024x392.png)
+![LSI keyword used](img/1/LSI-keyword-used-1024x392.png)
 
 好了。
 
@@ -678,7 +678,7 @@ of a Perfectly Optimized Page“。
 相关搜索词帮助你选择Google Keyword Planner不显示的长尾
 关键词：
 
-![on page checklist](img/on-page-checklist.png)
+![on page checklist](img/1/on-page-checklist.png)
 
 这意味着会带给你更多流量。
 
@@ -694,30 +694,30 @@ of a Perfectly Optimized Page“。
 
 他们用飞快增长证明了自己...
 
-![alexa rating](img/alexa-rating-1024x461.png)
+![alexa rating](img/1/alexa-rating-1024x461.png)
 
 真的。Buzzfeed.com从零到美国`top 50`的网站...实际上是
 一夜之间。
 
 此外，你很难不喜欢这样的头条：
 
-![viralnova headlines](img/viralnova-headlines-1024x621.png)
+![viralnova headlines](img/1/viralnova-headlines-1024x621.png)
 
 而且他们已经证明了他们的标题炮制公式的确能夺人眼球。
 
 例如，这个标题可能已经吸引了你：
 
-![subheading catching your eye](img/subheading-1024x364.png)
+![subheading catching your eye](img/1/subheading-1024x364.png)
 
 这个副标题的灵感就来自于BuzzFeed的一个帖子：
 
-![buzzfeed headline](img/buzzfeed-headline-768x450.png)
+![buzzfeed headline](img/1/buzzfeed-headline-768x450.png)
 
 你也可以做到。
 
 只要看看BuzzFeed和其他一些骗点击的网站上最近的帖子：
 
-![buzzfeed headline examples](img/buzzfeed-headline-examples-1024x660.png)
+![buzzfeed headline examples](img/1/buzzfeed-headline-examples-1024x660.png)
 
 ...然后把它们运用到你自己的文章标题和副标题上。
 
@@ -753,11 +753,11 @@ Keyworddit会帮你做这些梳理工作。
 
 只要选择一个子范畴...
 
-![reddit keyword tool](img/reddit-keyword-tool-1024x946.png)
+![reddit keyword tool](img/1/reddit-keyword-tool-1024x946.png)
 
 ...你会看到人们讨论你的主题时用到的词条：
 
-![reddit keyword list](img/reddit-keyword-list-1024x648.png)
+![reddit keyword list](img/1/reddit-keyword-list-1024x648.png)
 
 相当酷。
 
@@ -767,7 +767,7 @@ Keyworddit会帮你做这些梳理工作。
 
 为了展示副标题的作用有多大，这里有一个示例：
 
-![text readability](img/text-readability-768x317.png)
+![text readability](img/1/text-readability-768x317.png)
 
 如果你还是个人，你就会倾向左边这个。
 
@@ -779,7 +779,7 @@ Keyworddit会帮你做这些梳理工作。
 
 这里是来自Inc.杂志的一个例子，我把它摊在了我的公寓地板上：
 
-![inc. magazine](img/IMG_0696.jpg)
+![inc. magazine](img/1/IMG_0696.jpg)
 
 我将展示给你三个受杂志启发的文本分解技术，当你用上以后，就
 会大大增强你的内容的易读性。
@@ -789,7 +789,7 @@ __1：使用引用框__
 当你引用某人说的话时，把那个引用放在一个框里。这是来自Backlinko
 的一个例子：
 
-![callout quote example](img/callout-quote-example.png)
+![callout quote example](img/1/callout-quote-example.png)
 
 __2:使用标注框__
 
@@ -799,7 +799,7 @@ __2:使用标注框__
 
 Backlinko使用了很多这种技巧。
 
-![callout box example](img/callout-box-example-906x1024.png)
+![callout box example](img/1/callout-box-example-906x1024.png)
 
 __3.区块横幅__
 
@@ -809,7 +809,7 @@ __3.区块横幅__
 
 其实也就是在每个副标题下面加一个定制的横幅，就像这个：
 
-![subheader-banner](img/subheader-banner-1024x531.png)
+![subheader-banner](img/1/subheader-banner-1024x531.png)
 
 现在看起来得多棒！
 
@@ -826,7 +826,7 @@ __3.区块横幅__
 我们对搜索引擎排名的影响因素的研究表明，在网址长短和
 Google排名之间存在显著的相关性。
 
-![url-length and ranking](img/06_URL-Length_line.png)
+![url-length and ranking](img/1/06_URL-Length_line.png)
 
 问题是：为什么较短的URL会在Google中得到较高的排名？
 
@@ -858,11 +858,11 @@ __其次，短网址=较好的点击通过率__
 __实际上，Google讨厌长的网址，他们现在会在搜索结果中
 自动把长网址重写为短网址__：
 
-![long url example 2](img/long-URL-example-2.png)
+![long url example 2](img/1/long-URL-example-2.png)
 
 这就是为什么我推荐简单但是具有描述性的网址，就像这个：
 
-![shrot url](img/short-URL-1024x210.png)
+![shrot url](img/1/short-URL-1024x210.png)
 
 小提醒：你的网址真的长吗？我不会建议你去改它们，只要在以后
 应用这个规则就行了。
@@ -873,7 +873,7 @@ __实际上，Google讨厌长的网址，他们现在会在搜索结果中
 
 他花了很多时间，创作了这个令人印象深刻的`web`设计检查清单：
 
-![web desing checklist](img/web-design-checklist-1024x936.png)
+![web desing checklist](img/1/web-design-checklist-1024x936.png)
 
 这个指南写的很好，以致于目标关键词排名达到了`Top 3`。
 
@@ -884,7 +884,7 @@ __实际上，Google讨厌长的网址，他们现在会在搜索结果中
 
 最初的标题`tag`也不错...不过还有相当大的提升空间：
 
-![old title](img/old-title.png)
+![old title](img/1/old-title.png)
 
 他在两方面进行了改进：
 
@@ -894,20 +894,20 @@ __首先，他加了一个数字__。
 
 这就是为什么David在标题里加了一个数字。
 
-![new title number](img/new-title-number.png)
+![new title number](img/1/new-title-number.png)
 
 David还为标题添加了一些感情色彩。研究表明
 [感情强烈的标题能获得更多的点击](http://arxiv.org/pdf/1503.07921v2.pdf)。
 
 这就是为什么David在标题`tag`中加入了单词"Amazing"：
 
-![new title emotion](img/new-title-emotion.png)
+![new title emotion](img/1/new-title-emotion.png)
 
 结果如何？
 
 自然搜索流量增长了71.6%。
 
-![traffic increase organic](img/traffic-increase-organic-1024x642.png)
+![traffic increase organic](img/1/traffic-increase-organic-1024x642.png)
 
 相当酷，对吧？
 
@@ -921,11 +921,11 @@ David还为标题添加了一些感情色彩。研究表明
 
 在工具中输入一个种子关键词：
 
-![bloomberry](img/bloomberry-1024x485.png)
+![bloomberry](img/1/bloomberry-1024x485.png)
 
 然后`Bloomberry`就会从互联网上围绕你的关键词查找问题和主题：
 
-![bloomberry result](img/bloomberry-results-1024x448.png)
+![bloomberry result](img/1/bloomberry-results-1024x448.png)
 
 因为大多数问题和主题都不包含你的种子关键词，所以你的竞争对手
 根本就不了解它们。
